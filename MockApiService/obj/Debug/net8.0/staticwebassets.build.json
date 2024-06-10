@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oytt/obaTUF9OVgdWMtIbQeZ4zOBOTKCKbTN+H0mRrU=",
+  "Source": "MockApiService",
+  "BasePath": "_content/MockApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
